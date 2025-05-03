@@ -1,0 +1,1 @@
+provide inject for components communication
